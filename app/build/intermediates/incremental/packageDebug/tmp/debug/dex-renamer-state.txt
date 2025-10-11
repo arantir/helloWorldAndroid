@@ -1,0 +1,4 @@
+#Wed Oct 08 14:15:57 YEKT 2025
+base.0=G\:\\maul ad\\androidPrj\\helloworld\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
